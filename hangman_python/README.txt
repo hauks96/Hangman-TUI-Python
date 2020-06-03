@@ -8,6 +8,8 @@ by the logic class. The logic class handles all communications between the game 
 All methods from logic layer return a python dictionary to the interface with the appropriate data, 
 in a json like fashion.
 
+The database is on a heroku deployed server, it has tables that are viewable in the hangman_django_server folder in the "models" file.
+
 
 
 
