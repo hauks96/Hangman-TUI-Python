@@ -1,4 +1,4 @@
-#Ægir M Hauksson modified version of a script that I created for last 3 week course.
+#This class is the graphical constructor, which creates pieces of the interface. It is puzzled together by the InterfaceMethods class
 from datetime import datetime
 from .string_graphics import Graphics
 class InterfaceMethods:
