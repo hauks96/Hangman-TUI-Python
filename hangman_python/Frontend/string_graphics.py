@@ -1,3 +1,5 @@
+#These are the hangman graphical's for ingame. The InterfaceMethods class takes it and replaces whitespaces at the appropriate
+#locations with the graphics.
 class Graphics:
     hangman0 = """
                     
