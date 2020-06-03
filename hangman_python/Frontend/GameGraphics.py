@@ -1,3 +1,4 @@
+#This class pieces together the interface menu's for the relevant screen, by using the InterfaceMethods class
 from .interface_methods import InterfaceMethods
 class GameGraphics:
     def __init__(self):
