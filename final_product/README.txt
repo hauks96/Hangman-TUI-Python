@@ -18,3 +18,6 @@ IF THE TEXT INTERFACE IS TOO LARE FOR YOUR SCREEN:
 THE SERVER IS ONLINE!
 
 You are free to use all code as you please
+
+
+To create the .exe file I used this demonstration video on youtube: https://www.youtube.com/watch?v=UZX5kH72Yx4&t=303s
