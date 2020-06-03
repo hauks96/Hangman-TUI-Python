@@ -77,12 +77,7 @@ WSGI_APPLICATION = 'hangmanserver.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'bdcngahc',
-        'USER': 'bdcngahc',
-        'PASSWORD': 'vErBT3XfR7y3365ae07FLGloIrhcblAH',
-        'HOST': 'rogue.db.elephantsql.com',
-        'PORT': '5432'
+        #Removed for obvious reasons
     }
 }
 
