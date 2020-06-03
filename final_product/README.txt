@@ -17,4 +17,4 @@ IF THE TEXT INTERFACE IS TOO LARE FOR YOUR SCREEN:
 
 THE SERVER IS ONLINE!
 
-Copyright Ægir Máni Hauksson
+You are free to use all code as you please
