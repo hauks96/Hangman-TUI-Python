@@ -1,0 +1,20 @@
+TO RUN THE GAME:
+    1. Click the hangman.exe file located in the main directory
+
+
+TO USE THE APPLICATION COMMANDS
+    1. To enter any text, in any menu, you must first enter a command. After entering the command
+    the program will prompt you for an input.
+    2. The commands and their explanation are visible in the top part of the interface in any given menu
+
+THE RECOMMENDED SCREEN SIZE IS 100+
+
+IF THE TEXT INTERFACE IS TOO LARE FOR YOUR SCREEN:
+    1. Make your terminal bigger or lower the letter size in the terminl settings
+    OR
+    1. Use the resize command in the main menu
+
+
+THE SERVER IS ONLINE!
+
+Copyright Ægir Máni Hauksson
