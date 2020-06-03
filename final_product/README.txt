@@ -10,7 +10,7 @@ TO USE THE APPLICATION COMMANDS
 THE RECOMMENDED SCREEN SIZE IS 100+
 
 IF THE TEXT INTERFACE IS TOO LARE FOR YOUR SCREEN:
-    1. Make your terminal bigger or lower the letter size in the terminl settings
+    1. Make your terminal bigger or lower the letter size in the terminal settings
     OR
     1. Use the resize command in the main menu
 
