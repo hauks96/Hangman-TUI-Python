@@ -1,5 +1,5 @@
 TO RUN THE GAME:
-    1. Click the hangman.exe file located in the main directory
+    1. Click the hangman.exe file located in the main directory under the folder final_product
 
 
 TO USE THE APPLICATION COMMANDS
