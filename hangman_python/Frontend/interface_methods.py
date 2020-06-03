@@ -1,4 +1,4 @@
-#This class is the graphical constructor, which creates pieces of the interface. It is puzzled together by the InterfaceMethods class
+#This class is the graphical constructor, which creates pieces of the interface. It is puzzled together by the GameGraphics class
 from datetime import datetime
 from .string_graphics import Graphics
 class InterfaceMethods:
