@@ -1,4 +1,4 @@
-Executable (.exe) game file and demontration pictures located in "final_product" folder.
+Executable (.exe) game file and demonstration pictures located in "final_product" folder.
 
 All python code located under "hangman_python" folder.
 
